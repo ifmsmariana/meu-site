@@ -85,4 +85,14 @@ main .techs .cards-container .cart{
     height: 120px;
     padding: 10px;
     background-color: #eee;
+    border-radius:8px ;
+    margin-right: 1.8em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2 ease-in-out;
+}
+main .techs .cards-container .cart:nth-child(4){
+    mag
 }
